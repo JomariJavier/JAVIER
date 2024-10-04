@@ -83,7 +83,7 @@ ul {
 }
 .about-text > h1 {
     font-size: 3rem;
-    background: linear-gradient(45deg, #0d2ea6, #d91334);
+    background: linear-gradient(45deg, #0037ff, #ff002b);
     background-clip: text;
     color: transparent;
     
@@ -121,7 +121,7 @@ ul {
 
 }
 #gallery h1 {
-    background: linear-gradient(45deg, #0d2ea6, #d91334);
+    background: linear-gradient(45deg, #0037ff, #ff002b);
     height: auto;
     width: auto;
     margin: 2rem;
@@ -134,7 +134,7 @@ ul {
     max-width: 220px;
     height: auto;
 }
-img:hover {
+.gallery-container img:hover {
     transition: ease-in-out 100ms;
     background: rgb(255, 255, 255);
     border: 1px solid rgba(255, 255, 255, 0.197);
@@ -157,7 +157,7 @@ img:hover {
     box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.204);
     backdrop-filter: blur( 10px );
     font-size: 3rem;
-    background: linear-gradient(45deg, #0d2ea6, #d91334);
+    background: linear-gradient(45deg, #0037ff, #ff002b);
     background-clip: text;
     color: transparent;
 }
