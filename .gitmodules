@@ -1,3 +1,6 @@
 [submodule "CerezaBAIT1B"]
 	path = CerezaBAIT1B
 	url = https://github.com/Cerezakarah/CerezaBAIT1B.git
+[submodule "Devibar-WS101"]
+	path = Devibar-WS101
+	url = https://github.com/Nino-Devibar/Devibar-WS101.git
