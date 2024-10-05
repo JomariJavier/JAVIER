@@ -10,3 +10,6 @@
 [submodule "Namoc"]
 	path = Namoc
 	url = https://github.com/FLnamoc/Namoc.git
+[submodule "Du-ay"]
+	path = Du-ay
+	url = https://github.com/Duayjerick246/Du-ay.git
