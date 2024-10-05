@@ -7,3 +7,6 @@
 [submodule "Carillo"]
 	path = Carillo
 	url = https://github.com/PatrickCarillo/Carillo.git
+[submodule "Namoc"]
+	path = Namoc
+	url = https://github.com/FLnamoc/Namoc.git
