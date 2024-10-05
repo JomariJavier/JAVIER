@@ -4,3 +4,6 @@
 [submodule "Devibar-WS101"]
 	path = Devibar-WS101
 	url = https://github.com/Nino-Devibar/Devibar-WS101.git
+[submodule "Carillo"]
+	path = Carillo
+	url = https://github.com/PatrickCarillo/Carillo.git
